@@ -26,3 +26,4 @@ let output=technologies.map((t,i)=>{
     };
 });
 console.log (output);
+//q4
